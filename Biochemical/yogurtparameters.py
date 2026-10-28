@@ -95,10 +95,6 @@ def get_parameters():
 
         params["pHopt_s"] = yogurtconstant.PHOPT_S
 
-        params["symbiosis_st"] = yogurtconstant.SYMBIOSIS_ST
-
-        params["symbiosis_lb"] = yogurtconstant.SYMBIOSIS_LB
-
         # ---------------------------------------------
         # L. bulgaricus
         # ---------------------------------------------
