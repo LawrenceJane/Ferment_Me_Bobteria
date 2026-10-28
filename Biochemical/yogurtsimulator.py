@@ -78,10 +78,7 @@ def run_simulation(params):
     params["BETA"],
 
     params["alpha_s"],
-    params["alpha_l"],
-
-    params["symbiosis_st"],
-    params["symbiosis_lb"]
+    params["alpha_l"]
     
     )
 
