@@ -31,6 +31,7 @@ The project was developed as an exploration of biochemical engineering, particul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Example Simulation Graphs](#example-simulation-graphs)
 - [Calibration and Validation](#calibration-and-validation)
 - [Assumptions and Limitations](#assumptions-and-limitations)
 - [Future Development](#future-development)
@@ -536,6 +537,19 @@ Lower RMSE indicates closer agreement with the selected observations.
 However, a lower RMSE does not prove that the selected parameters are biologically correct. Different parameter combinations can produce similar predictions, especially when calibration is based on a small number of observations.
 
 If the same observations are used both to optimise parameters and to report model accuracy, the resulting RMSE describes the fit to those observations rather than independent predictive performance.
+
+### Example Simulation Graphs
+
+The dashboard below shows an example of the simulator's output, including bacterial growth, lactose consumption, lactic acid production, and pH evolution compared with experimental reference data.
+
+<img width="1280" height="599" alt="Figure_1" src="https://github.com/user-attachments/assets/1725482b-102b-4ce5-b554-3b33850a584a" />
+Example model simulation. Curves represent simulated results, while experimental markers represent reference pH data.
+
+Interactive Dashboard
+The dashboard uses Matplotlib's interactive plotting tools, allowing users to explore the results more conveniently.
+- Move and zoom the graphs: Use the toolbar at the bottom of the dashboard to pan, zoom, and navigate the plots.
+- Move the simulation summary: The simulation summary box can be repositioned by dragging it, allowing users to uncover information that may be obscured by the box.
+- Save the figure: Use the save icon in the plotting toolbar to export the dashboard as an image.
 
 ### Current validation scope
 
