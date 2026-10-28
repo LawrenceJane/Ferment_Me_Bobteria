@@ -620,4 +620,4 @@ Burgos-Rubio, C. N., Okos, M. R., & Wankat, P. C. (2000). Kinetic study of the c
 
 
 
-*Ferment me, Bobteria!* is an ongoing learning project. Its purpose is not to provide a perfect representation of yogurt fermentation, but to explore how mathematical models can help us understand a complex biological process—and where those models fall short.
+*Ferment me, Bobteria!* is an ongoing learning project. Its purpose is not to provide a perfect representation of yogurt fermentation, but to explore how mathematical models can help us understand a complex biological process and where those models fall short.
