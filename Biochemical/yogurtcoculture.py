@@ -87,7 +87,6 @@ def growth_rate(
     Ki,
     other_species,
     alpha,
-    symbiosis_coefficient,
 ):
 
     return (
@@ -100,8 +99,7 @@ def growth_rate(
         acid_factor(P, Ki)
         *
         symbiosis_factor(other_species, alpha)
-        *
-        symbiosis_coefficient
+        
     )
 
 # =====================================================
@@ -150,9 +148,6 @@ def yogurt_coculture(
     alpha_s,
     alpha_l,
 
-    symbiosis_st,
-    symbiosis_lb,
-
     pH_min=3.5
 ):
 
@@ -189,7 +184,6 @@ def yogurt_coculture(
             Ki,
             Xl,
             alpha_s,
-            symbiosis_st,
             
         )
 
@@ -208,7 +202,6 @@ def yogurt_coculture(
             Ki,
             Xs,
             alpha_l,
-            symbiosis_lb,
             
         )
 
