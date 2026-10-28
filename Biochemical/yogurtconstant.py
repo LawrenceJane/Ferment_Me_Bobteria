@@ -34,11 +34,6 @@ KS_S = 3.36              # g/L
 
 ACID_YIELD_S = 0.556     #          Degeest & De Vuyst (1999)
 
-SYMBIOSIS_ST = 0.25
-    # Empirically calibrated parameters.
-    # Selected based on the lowest RMSE among the
-    # parameter combinations tested; not literature-derived.
-
 # =====================================================
 # Lactobacillus delbrueckii subsp. bulgaricus
 # =====================================================
@@ -58,8 +53,3 @@ YL = 0.1                 # g/g      Burgos-Rubio et al. (2000)
 KS_L = 3.36              # g/L      Burgos-Rubio et al. (2000)
 
 ACID_YIELD_L = 0.602     #          Rezvani, Ardestani & Najafpour (2017)
-
-SYMBIOSIS_LB = 0.30
-    # Empirically calibrated parameters.
-    # Selected based on the lowest RMSE among the
-    # parameter combinations tested; not literature-derived.
