@@ -1,5 +1,4 @@
 # =====================================================
-# ReactionLab Bio v3.1
 # yogurt_model.py
 #
 # Improved yogurt fermentation model
