@@ -15,15 +15,15 @@ BETA = 2.4               # g lactic acid / L / pH unit
 # Streptococcus thermophilus
 # =====================================================
 
-MU_MAX_S = 1.23          # h^-1     Rosso et al. (2023)
+MU_MAX_S = 1.23          # h^-1     Salmazo et al. (2023)
 
-TMIN_S = 15.1            # °C       Rosso et al. (2023)
-TOPT_S = 41.0            # °C       Rosso et al. (2023)
-TMAX_S = 55.2            # °C       Rosso et al. (2023)
+TMIN_S = 15.1            # °C       Salmazo et al. (2023)
+TOPT_S = 41.0            # °C       Salmazo et al. (2023)
+TMAX_S = 55.2            # °C       Salmazo et al. (2023)
 
-PHMIN_S = 2.98           #          Rosso et al. (2023)
-PHOPT_S = 7.44           #          Rosso et al. (2023)
-PHMAX_S = 8.60           #          Rosso et al. (2023)
+PHMIN_S = 2.98           #          Salmazo et al. (2023)
+PHOPT_S = 7.44           #          Salmazo et al. (2023)
+PHMAX_S = 8.60           #          Salmazo et al. (2023)
 
 YS = 0.095               # g/g      Degeest et al. (2001)
 
@@ -43,15 +43,15 @@ SYMBIOSIS_ST = 0.25
 # Lactobacillus delbrueckii subsp. bulgaricus
 # =====================================================
 
-MU_MAX_L = 1.25          # h^-1     Rosso et al. (2023)
+MU_MAX_L = 1.25          # h^-1     Salmazo et al. (2023)
 
-TMIN_L = 20.4            # °C       Rosso et al. (2023)
-TOPT_L = 43.5            # °C       Rosso et al. (2023)
-TMAX_L = 53.4            # °C       Rosso et al. (2023)
+TMIN_L = 20.4            # °C       Salmazo et al. (2023)
+TOPT_L = 43.5            # °C       Salmazo et al. (2023)
+TMAX_L = 53.4            # °C       Salmazo et al. (2023)
 
-PHMIN_L = 3.27           #          Rosso et al. (2023)
-PHOPT_L = 4.91           #          Rosso et al. (2023)
-PHMAX_L = 9.28           #          Rosso et al. (2023)
+PHMIN_L = 3.27           #          Salmazo et al. (2023)
+PHOPT_L = 4.91           #          Salmazo et al. (2023)
+PHMAX_L = 9.28           #          Salmazo et al. (2023)
 
 YL = 0.1                 # g/g      Burgos-Rubio et al. (2000)
 
