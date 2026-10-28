@@ -5,7 +5,7 @@
 #
 # Experiment Laboratory
 #
-# Version 1.0
+#
 # =====================================================
 
 import copy
