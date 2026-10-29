@@ -294,7 +294,6 @@ The model uses the following parameter groups.
 | `Ki` | Acid-inhibition parameter |
 | `BETA` | Effective pH-response or buffering parameter |
 | `alpha_s`, `alpha_l` | Species-interaction coefficients |
-| `symbiosis_st`, `symbiosis_lb` | Additional species-specific coefficients, where implemented |
 
 The numerical values, units, sources, and roles of these parameters should be documented alongside the constants or parameter definitions in the source code.
 
